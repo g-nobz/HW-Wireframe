@@ -1,0 +1,82 @@
+body{
+    background: darkgray;
+}
+
+header{
+    width: 66.66%;
+    margin: 10px 16.66% 10px 16.67%;
+    height: 100px;
+    background: white;
+    text-align: center;
+    line-height: 5;
+}
+
+nav{
+    width: 66.66%;
+    margin: 10px 16.66% 10px 16.67%;
+    height: 100px;
+    background: white;
+    text-align: center;
+    line-height: 5;
+}
+
+section{
+    width: 40%;
+    margin: 10px 0% 10px 16.67%;
+    height: 400px;
+    background: white;
+    text-align: center;
+    line-height: 5;
+    float: left;
+}
+
+article{
+    position: absolute;
+    background: darkgrey;
+    line-height: 3;
+    color: white;
+    width: 38%;
+    height: 300px;
+    margin-left: 1%;
+}
+
+h1{
+    width: 66.66%;
+    margin: 10px 16.66% 10px 16.67%;
+    height: 100px;
+    color: darkgrey;
+    background: white;
+    text-align: center;
+    line-height: 5;
+}
+
+p{
+    width: 66.66%;
+    margin: 10px 16.66% 10px 16.67%;
+    height: 100px;
+    color: darkgrey;
+    background: white;
+    text-align: center;
+    line-height: 5;
+}
+
+aside{
+    width: 26%;
+    margin: 10px 16.66% 10px .66%;
+    height: 400px;
+    background: white;
+    text-align: center;
+    line-height: 5;
+    float: left;
+
+}
+
+footer{
+    width: 66.66%;
+    margin: 10px 16.66% 10px 16.67%;
+    height: 100px;
+    background: white;
+    text-align: center;
+    line-height: 5;
+    clear: both;
+}
